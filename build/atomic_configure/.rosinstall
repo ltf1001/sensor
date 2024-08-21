@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/oem/plan_env/devel/setup.sh

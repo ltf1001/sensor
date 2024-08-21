@@ -1,0 +1,2 @@
+ego_grid_map
+-DCATKIN_DEVEL_PREFIX=/home/oem/plan_env/devel -DCMAKE_INSTALL_PREFIX=/home/oem/plan_env/install -G Unix Makefiles
